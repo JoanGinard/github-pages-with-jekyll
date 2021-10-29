@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Aquí mi blog, aquí un amigo"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Ya que estás aquí
